@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+<title id="title">Technical toolkit</title>
+<desc id="desc">Custom vector artwork for Mudassir Siddiqui's GitHub profile.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D1B"/><stop offset=".55" stop-color="#101B35"/><stop offset="1" stop-color="#172B4D"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5EEAD4"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17243D" stop-opacity=".96"/><stop offset="1" stop-color="#0C1427" stop-opacity=".96"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8BA5C8" stroke-opacity=".10" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1100" height="300" rx="20" fill="url(#bg)" stroke="#314866"/>
+<text x="36" y="48" fill="#5EEAD4" font-family="monospace" font-size="12" letter-spacing="3">TOOLBOX / WORKING SET</text>
+<rect x="36" y="75" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="54" y="97" fill="#5EEAD4" font-family="monospace" font-size="10">LANGUAGES</text><text x="54" y="117" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">Python  ·  JavaScript  ·  TypeScript</text><rect x="390" y="75" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="408" y="97" fill="#5EEAD4" font-family="monospace" font-size="10">FRONTEND</text><text x="408" y="117" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">React  ·  HTML  ·  CSS</text><rect x="744" y="75" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="762" y="97" fill="#5EEAD4" font-family="monospace" font-size="10">BACKEND</text><text x="762" y="117" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">Node.js  ·  Express  ·  FastAPI</text><rect x="36" y="150" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="54" y="172" fill="#5EEAD4" font-family="monospace" font-size="10">DATA / AI</text><text x="54" y="192" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">NumPy  ·  Pandas  ·  Scikit-learn</text><rect x="390" y="150" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="408" y="172" fill="#5EEAD4" font-family="monospace" font-size="10">DATABASES</text><text x="408" y="192" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">MongoDB  ·  MySQL  ·  Firebase</text><rect x="744" y="150" width="320" height="54" rx="10" fill="#14223A" stroke="#365171"/><text x="762" y="172" fill="#5EEAD4" font-family="monospace" font-size="10">TOOLS</text><text x="762" y="192" fill="#E3EDFC" font-family="Arial,sans-serif" font-size="14">Git  ·  GitHub  ·  Vercel  ·  Jupyter</text>
+<text x="36" y="258" fill="#8EA6C8" font-family="Arial,sans-serif" font-size="13">A practical toolkit, not a claim of mastery across every tool listed.</text>
+
+</svg>
