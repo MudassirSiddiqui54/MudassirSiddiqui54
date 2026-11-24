@@ -1,23 +1,6 @@
 <div align="center">
 
-<div style="position: relative; width: 100%; text-align: center;">
-
-  <img src="./assets/image.png" width="100%" alt="Hero Banner"/>
-
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 90%;
-    color: white;
-    text-shadow: 0 0 12px #38bdf8, 0 2px 5px #000;
-  ">
-    <h1>MUDASSIR SIDDIQUI</h1>
-    <h3>AI & ML Engineer | Full-Stack Developer</h3>
-  </div>
-
-</div>
+  <img src="./assets/hero.png" width="100%" alt="Hero Banner"/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1325?style=for-the-badge&logo=vercel&logoColor=5EEAD4)](https://mudassir-siddiqui.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-siddiqui-9a3b37256/)
