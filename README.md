@@ -2,7 +2,7 @@
 
   <img src="./assets/hero.png" width="100%" alt="Hero Banner"/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1325?style=for-the-badge&logo=vercel&logoColor=5EEAD4)](https://mudassir-siddiqui.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://mudassir-siddiqui.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-siddiqui-9a3b37256/)
 [![Email](https://img.shields.io/badge/EMAIL-172554?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudassirsid54@gmail.com)
 [![Repositories](https://img.shields.io/badge/ALL_REPOSITORIES-0B1325?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MudassirSiddiqui54?tab=repositories)
